@@ -5,7 +5,7 @@ My name is Qzimyion but you can also refer to me as Noelle :3
 ## More about me:
 
 I'm a 19 year old trans girl currently working on a few minecraft mods and hope to develop my own video game one day. 
-In case you want to discuss and in development of my mods and other projects you can join my [discord.](https://t.co/mpmPxWxzq1)
+In case you want to discuss and give feedback regarding development of my mods and other projects you can join my [discord.](https://t.co/mpmPxWxzq1)
 
 ## My stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=Qzimyion&theme=radical&show_icons=true&hide_border=false&count_private=true)
